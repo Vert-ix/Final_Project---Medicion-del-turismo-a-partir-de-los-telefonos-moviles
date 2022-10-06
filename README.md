@@ -1,6 +1,6 @@
 # Final Project
 
-## Medición del turismo receptor a partir de la posición de loss teléfonos moviles
+## Medición del turismo receptor a partir de la posición de los teléfonos moviles
 
 
 ### Introducción
@@ -30,11 +30,9 @@ el error depende de la concentración de antenas móviles.
 
 Los eventos de red se clasifican en los siguientes dos tipos: 
 
-	+ Eventos activos: cuando se realiza o recibe una llamada, un mensaje de texto,
-un email, se utiliza o actualiza una app, se navega en páginas web, o se enciendo o apaga el dispositivo.
+	+ Eventos activos: cuando se realiza o recibe una llamada, un mensaje de texto, un email, se utiliza o actualiza una app, se navega en páginas web, o se enciendo o apaga el dispositivo.
 
-	+ Eventos pasivos: se generan cuando el dispositivo está encendido, se mueve
-pero no se está ejecutando ninguna acción. 
+	+ Eventos pasivos: se generan cuando el dispositivo está encendido, se mueve pero no se está ejecutando ninguna acción. 
   
 
 ### Extración de datos
