@@ -1,0 +1,741 @@
+fecha,turistas,pernoctaciones,duracion_media_de_los_viajes,zona
+            2022M07,338842,1630396,4,Andalucia
+            2022M06,265766,1098485,4,Andalucia
+            2022M05,231089,870959,3,Andalucia
+            2022M04,236212,994445,4,Andalucia
+            2022M03,217695,872336,4,Andalucia
+            2022M02,168206,608992,3,Andalucia
+            2022M01,165818,776511,4,Andalucia
+            2021M12,223444,1042988,4,Andalucia
+            2021M11,213476,852548,4,Andalucia
+            2021M10,241509,1035834,4,Andalucia
+            2021M09,233782,1040898,4,Andalucia
+            2021M08,286383,1451870,5,Andalucia
+            2021M07,208878,925192,4,Andalucia
+            2021M06,166666,608952,3,Andalucia
+            2021M05,136068,465831,3,Andalucia
+            2021M04,95131,374273,3,Andalucia
+            2021M03,93599,351952,3,Andalucia
+            2021M02,59101,210637,3,Andalucia
+            2021M01,73855,302124,4,Andalucia
+            2020M12,87252,527765,6,Andalucia
+            2020M11,68618,364803,5,Andalucia
+            2020M10,120145,596472,5,Andalucia
+            2020M09,123371,558701,4,Andalucia
+            2020M08,170943,1073667,6,Andalucia
+            2020M07,134319,732121,5,Andalucia
+            2020M06,49990,238380,4,Andalucia
+            2020M05,40403,208410,5,Andalucia
+            2020M04,25739,147680,5,Andalucia
+            2020M03,159389,819972,5,Andalucia
+            2020M02,241170,1151775,4,Andalucia
+            2020M01,242204,1322416,5,Andalucia
+            2019M12,324463,1618723,5,Andalucia
+            2019M11,240738,1124745,4,Andalucia
+            2019M10,238589,1251958,5,Andalucia
+            2019M09,327338,1753909,5,Andalucia
+            2019M08,402796,2746823,6,Andalucia
+            2019M07,335082,1887118,5,Andalucia
+            2022M07,58149,308122,5,Aragon
+            2022M06,39445,173260,4,Aragon
+            2022M05,34377,138640,4,Aragon
+            2022M04,40735,178043,4,Aragon
+            2022M03,34566,132486,3,Aragon
+            2022M02,23786,95548,4,Aragon
+            2022M01,28567,131887,4,Aragon
+            2021M12,35165,163074,4,Aragon
+            2021M11,30772,121695,4,Aragon
+            2021M10,37029,151991,4,Aragon
+            2021M09,34478,164390,4,Aragon
+            2021M08,43795,265036,6,Aragon
+            2021M07,29998,146151,4,Aragon
+            2021M06,19083,80040,4,Aragon
+            2021M05,13956,55105,3,Aragon
+            2021M04,12043,47511,3,Aragon
+            2021M03,12776,46014,3,Aragon
+            2021M02,8850,32659,3,Aragon
+            2021M01,10799,42344,3,Aragon
+            2020M12,10239,57709,5,Aragon
+            2020M11,8592,44893,5,Aragon
+            2020M10,17238,81433,4,Aragon
+            2020M09,18127,80647,4,Aragon
+            2020M08,23327,159206,6,Aragon
+            2020M07,20718,106673,5,Aragon
+            2020M06,7683,31449,4,Aragon
+            2020M05,5334,23237,4,Aragon
+            2020M04,3957,18025,4,Aragon
+            2020M03,23439,115007,4,Aragon
+            2020M02,34786,168686,4,Aragon
+            2020M01,38483,207042,5,Aragon
+            2019M12,51932,257913,5,Aragon
+            2019M11,37411,174756,4,Aragon
+            2019M10,42708,214880,5,Aragon
+            2019M09,60671,334641,5,Aragon
+            2019M08,80941,618591,7,Aragon
+            2019M07,58747,358061,6,Aragon
+            2022M07,30550,196709,6,"Asturias, principado de"
+            2022M06,22555,118980,5,"Asturias, principado de"
+            2022M05,19695,94796,4,"Asturias, principado de"
+            2022M04,24079,113891,4,"Asturias, principado de"
+            2022M03,15910,78094,4,"Asturias, principado de"
+            2022M02,10748,52795,4,"Asturias, principado de"
+            2022M01,11813,69953,5,"Asturias, principado de"
+            2021M12,18522,107659,5,"Asturias, principado de"
+            2021M11,18067,85618,4,"Asturias, principado de"
+            2021M10,21608,111979,5,"Asturias, principado de"
+            2021M09,22332,128596,5,"Asturias, principado de"
+            2021M08,24542,158809,6,"Asturias, principado de"
+            2021M07,15933,97878,6,"Asturias, principado de"
+            2021M06,9815,50228,5,"Asturias, principado de"
+            2021M05,7582,33816,4,"Asturias, principado de"
+            2021M04,4723,24182,5,"Asturias, principado de"
+            2021M03,5045,24026,4,"Asturias, principado de"
+            2021M02,3385,15457,4,"Asturias, principado de"
+            2021M01,3688,16687,4,"Asturias, principado de"
+            2020M12,4031,31537,7,"Asturias, principado de"
+            2020M11,3491,24487,7,"Asturias, principado de"
+            2020M10,7532,45034,6,"Asturias, principado de"
+            2020M09,9086,50319,5,"Asturias, principado de"
+            2020M08,11095,92115,8,"Asturias, principado de"
+            2020M07,9741,67955,7,"Asturias, principado de"
+            2020M06,2322,11535,5,"Asturias, principado de"
+            2020M05,2038,11596,5,"Asturias, principado de"
+            2020M04,1386,7359,5,"Asturias, principado de"
+            2020M03,10806,66620,6,"Asturias, principado de"
+            2020M02,22751,120969,5,"Asturias, principado de"
+            2020M01,22034,124667,5,"Asturias, principado de"
+            2019M12,29755,165396,5,"Asturias, principado de"
+            2019M11,20771,113271,5,"Asturias, principado de"
+            2019M10,23801,147712,6,"Asturias, principado de"
+            2019M09,38343,235355,6,"Asturias, principado de"
+            2019M08,37703,301982,8,"Asturias, principado de"
+            2019M07,33997,242739,7,"Asturias, principado de"
+            2022M07,42798,263120,6,"Balears, illes"
+            2022M06,34830,179105,5,"Balears, illes"
+            2022M05,31591,157342,5,"Balears, illes"
+            2022M04,42813,232950,5,"Balears, illes"
+            2022M03,31407,170490,5,"Balears, illes"
+            2022M02,22739,132178,5,"Balears, illes"
+            2022M01,32556,274556,8,"Balears, illes"
+            2021M12,41580,275048,6,"Balears, illes"
+            2021M11,32982,186956,5,"Balears, illes"
+            2021M10,37261,204211,5,"Balears, illes"
+            2021M09,33580,206314,6,"Balears, illes"
+            2021M08,34833,266165,7,"Balears, illes"
+            2021M07,23631,156774,6,"Balears, illes"
+            2021M06,13988,89738,6,"Balears, illes"
+            2021M05,9144,61971,6,"Balears, illes"
+            2021M04,7148,57228,8,"Balears, illes"
+            2021M03,7167,49940,7,"Balears, illes"
+            2021M02,4882,34540,7,"Balears, illes"
+            2021M01,6697,55403,8,"Balears, illes"
+            2020M12,7956,72115,9,"Balears, illes"
+            2020M11,6021,54741,9,"Balears, illes"
+            2020M10,13924,111695,8,"Balears, illes"
+            2020M09,12526,80992,6,"Balears, illes"
+            2020M08,15856,157887,10,"Balears, illes"
+            2020M07,13030,106294,8,"Balears, illes"
+            2020M06,2723,19631,7,"Balears, illes"
+            2020M05,1277,9434,7,"Balears, illes"
+            2020M04,905,7280,8,"Balears, illes"
+            2020M03,22952,145725,6,"Balears, illes"
+            2020M02,41337,255426,6,"Balears, illes"
+            2020M01,64907,521997,8,"Balears, illes"
+            2019M12,69581,456447,6,"Balears, illes"
+            2019M11,52595,325392,6,"Balears, illes"
+            2019M10,45584,275589,6,"Balears, illes"
+            2019M09,54096,331132,6,"Balears, illes"
+            2019M08,55595,446854,8,"Balears, illes"
+            2019M07,43355,267404,6,"Balears, illes"
+            2022M07,46768,379574,8,Canarias
+            2022M06,36811,265816,7,Canarias
+            2022M05,30808,209374,6,Canarias
+            2022M04,27911,192409,6,Canarias
+            2022M03,28240,172235,6,Canarias
+            2022M02,17119,108188,6,Canarias
+            2022M01,21330,178255,8,Canarias
+            2021M12,33151,234967,7,Canarias
+            2021M11,25284,166761,6,Canarias
+            2021M10,26768,200772,7,Canarias
+            2021M09,27859,224189,8,Canarias
+            2021M08,28734,283391,9,Canarias
+            2021M07,22297,191886,8,Canarias
+            2021M06,12567,106849,8,Canarias
+            2021M05,7199,62268,8,Canarias
+            2021M04,6038,55577,9,Canarias
+            2021M03,6106,44583,7,Canarias
+            2021M02,4214,31171,7,Canarias
+            2021M01,5156,40471,7,Canarias
+            2020M12,7225,72099,10,Canarias
+            2020M11,6108,57465,9,Canarias
+            2020M10,9754,96954,9,Canarias
+            2020M09,10461,87112,8,Canarias
+            2020M08,14010,183103,13,Canarias
+            2020M07,12532,128485,10,Canarias
+            2020M06,2803,18862,6,Canarias
+            2020M05,2450,15871,6,Canarias
+            2020M04,1841,12361,6,Canarias
+            2020M03,18788,138416,7,Canarias
+            2020M02,34139,223098,6,Canarias
+            2020M01,39567,304656,7,Canarias
+            2019M12,49989,333608,6,Canarias
+            2019M11,35678,250766,7,Canarias
+            2019M10,39389,313478,8,Canarias
+            2019M09,52264,415529,8,Canarias
+            2019M08,55131,564076,10,Canarias
+            2019M07,52850,444200,8,Canarias
+            2022M07,22654,130928,5,Cantabria
+            2022M06,17528,83478,4,Cantabria
+            2022M05,13690,59050,4,Cantabria
+            2022M04,16958,76833,4,Cantabria
+            2022M03,11053,49498,4,Cantabria
+            2022M02,10535,47290,4,Cantabria
+            2022M01,9042,47167,5,Cantabria
+            2021M12,12255,65905,5,Cantabria
+            2021M11,13621,59382,4,Cantabria
+            2021M10,12955,62313,4,Cantabria
+            2021M09,16670,81286,4,Cantabria
+            2021M08,15059,83811,5,Cantabria
+            2021M07,10651,53753,5,Cantabria
+            2021M06,6972,30188,4,Cantabria
+            2021M05,4955,21211,4,Cantabria
+            2021M04,3863,16996,4,Cantabria
+            2021M03,4110,18143,4,Cantabria
+            2021M02,2817,11990,4,Cantabria
+            2021M01,3142,12996,4,Cantabria
+            2020M12,3573,22313,6,Cantabria
+            2020M11,3056,17115,5,Cantabria
+            2020M10,5596,31266,5,Cantabria
+            2020M09,8129,38871,4,Cantabria
+            2020M08,7801,57277,7,Cantabria
+            2020M07,7622,45147,5,Cantabria
+            2020M06,2583,12276,4,Cantabria
+            2020M05,1998,9460,4,Cantabria
+            2020M04,1300,6482,5,Cantabria
+            2020M03,8182,46175,5,Cantabria
+            2020M02,16611,81677,4,Cantabria
+            2020M01,14825,84321,5,Cantabria
+            2019M12,18868,103265,5,Cantabria
+            2019M11,16243,85660,5,Cantabria
+            2019M10,18807,102106,5,Cantabria
+            2019M09,28891,165869,5,Cantabria
+            2019M08,22876,179321,7,Cantabria
+            2019M07,19241,136717,7,Cantabria
+            2022M07,55295,304097,5,Castilla - la mancha
+            2022M06,44617,203667,4,Castilla - la mancha
+            2022M05,37315,153000,4,Castilla - la mancha
+            2022M04,42940,191843,4,Castilla - la mancha
+            2022M03,36241,150427,4,Castilla - la mancha
+            2022M02,23745,99446,4,Castilla - la mancha
+            2022M01,27579,132134,4,Castilla - la mancha
+            2021M12,38176,192771,5,Castilla - la mancha
+            2021M11,34420,144688,4,Castilla - la mancha
+            2021M10,36344,161069,4,Castilla - la mancha
+            2021M09,35376,184464,5,Castilla - la mancha
+            2021M08,42830,259512,6,Castilla - la mancha
+            2021M07,31767,163118,5,Castilla - la mancha
+            2021M06,23540,101966,4,Castilla - la mancha
+            2021M05,18501,75595,4,Castilla - la mancha
+            2021M04,14101,61923,4,Castilla - la mancha
+            2021M03,15657,63366,4,Castilla - la mancha
+            2021M02,10346,41208,4,Castilla - la mancha
+            2021M01,11739,52169,4,Castilla - la mancha
+            2020M12,14352,86481,6,Castilla - la mancha
+            2020M11,12222,65446,5,Castilla - la mancha
+            2020M10,17306,92226,5,Castilla - la mancha
+            2020M09,16575,85019,5,Castilla - la mancha
+            2020M08,22491,166760,7,Castilla - la mancha
+            2020M07,20416,122145,6,Castilla - la mancha
+            2020M06,8887,43257,4,Castilla - la mancha
+            2020M05,7207,35427,4,Castilla - la mancha
+            2020M04,4921,23740,4,Castilla - la mancha
+            2020M03,22025,117782,5,Castilla - la mancha
+            2020M02,41563,199213,4,Castilla - la mancha
+            2020M01,42138,218501,5,Castilla - la mancha
+            2019M12,48255,251759,5,Castilla - la mancha
+            2019M11,38869,184102,4,Castilla - la mancha
+            2019M10,40842,219880,5,Castilla - la mancha
+            2019M09,54447,325319,6,Castilla - la mancha
+            2019M08,73318,539304,7,Castilla - la mancha
+            2019M07,54410,340659,6,Castilla - la mancha
+            2022M07,85155,426503,5,Castilla y leon
+            2022M06,64833,256032,3,Castilla y leon
+            2022M05,57772,204953,3,Castilla y leon
+            2022M04,71006,280741,4,Castilla y leon
+            2022M03,49510,178118,3,Castilla y leon
+            2022M02,36939,133626,3,Castilla y leon
+            2022M01,39149,171911,4,Castilla y leon
+            2021M12,55794,243666,4,Castilla y leon
+            2021M11,50226,175263,3,Castilla y leon
+            2021M10,67071,242400,3,Castilla y leon
+            2021M09,62248,261600,4,Castilla y leon
+            2021M08,77518,366245,4,Castilla y leon
+            2021M07,52276,215344,4,Castilla y leon
+            2021M06,38171,127677,3,Castilla y leon
+            2021M05,32141,93182,2,Castilla y leon
+            2021M04,22113,74465,3,Castilla y leon
+            2021M03,23194,71194,3,Castilla y leon
+            2021M02,18312,53137,2,Castilla y leon
+            2021M01,17624,65120,3,Castilla y leon
+            2020M12,18834,95957,5,Castilla y leon
+            2020M11,17074,78583,4,Castilla y leon
+            2020M10,30976,134935,4,Castilla y leon
+            2020M09,32012,137715,4,Castilla y leon
+            2020M08,45487,273054,6,Castilla y leon
+            2020M07,36198,182464,5,Castilla y leon
+            2020M06,11386,46487,4,Castilla y leon
+            2020M05,8296,37306,4,Castilla y leon
+            2020M04,5234,23521,4,Castilla y leon
+            2020M03,29187,141214,4,Castilla y leon
+            2020M02,66691,295028,4,Castilla y leon
+            2020M01,60336,305005,5,Castilla y leon
+            2019M12,87048,400748,4,Castilla y leon
+            2019M11,57489,256535,4,Castilla y leon
+            2019M10,65945,332919,5,Castilla y leon
+            2019M09,92572,500473,5,Castilla y leon
+            2019M08,109211,746345,6,Castilla y leon
+            2019M07,83687,503723,6,Castilla y leon
+            2022M07,512893,2380469,4,Cataluña
+            2022M06,476817,1760681,3,Cataluña
+            2022M05,388064,1364368,3,Cataluña
+            2022M04,440594,1752087,4,Cataluña
+            2022M03,353350,1232394,3,Cataluña
+            2022M02,283433,953253,3,Cataluña
+            2022M01,381976,1689620,4,Cataluña
+            2021M12,498271,1898274,3,Cataluña
+            2021M11,372402,1291696,3,Cataluña
+            2021M10,413843,1526052,3,Cataluña
+            2021M09,421279,1894223,4,Cataluña
+            2021M08,529506,3102926,5,Cataluña
+            2021M07,309707,1351098,4,Cataluña
+            2021M06,226279,826660,3,Cataluña
+            2021M05,179559,611825,3,Cataluña
+            2021M04,137200,541444,3,Cataluña
+            2021M03,114401,426059,3,Cataluña
+            2021M02,75145,283406,3,Cataluña
+            2021M01,100590,462399,4,Cataluña
+            2020M12,107705,553520,5,Cataluña
+            2020M11,77467,388475,5,Cataluña
+            2020M10,196477,782525,4,Cataluña
+            2020M09,231469,944519,4,Cataluña
+            2020M08,314773,2100188,6,Cataluña
+            2020M07,206076,1003796,4,Cataluña
+            2020M06,62945,240291,3,Cataluña
+            2020M05,34971,156922,4,Cataluña
+            2020M04,23387,119216,5,Cataluña
+            2020M03,202808,851285,4,Cataluña
+            2020M02,419220,1614830,3,Cataluña
+            2020M01,530050,2640097,5,Cataluña
+            2019M12,604845,2550847,4,Cataluña
+            2019M11,431831,1680503,3,Cataluña
+            2019M10,419463,1771441,4,Cataluña
+            2019M09,605371,3108501,5,Cataluña
+            2019M08,809427,5971665,7,Cataluña
+            2019M07,500668,2534870,5,Cataluña
+            2022M07,19821,36809,1,Ceuta
+            2022M06,22867,30865,1,Ceuta
+            2022M05,24219,33561,1,Ceuta
+            2022M04,18649,31440,1,Ceuta
+            2022M03,16952,25236,1,Ceuta
+            2022M02,18467,23529,1,Ceuta
+            2022M01,26506,38619,1,Ceuta
+            2021M12,22983,30980,1,Ceuta
+            2021M11,19243,28404,1,Ceuta
+            2021M10,23682,34109,1,Ceuta
+            2021M09,22923,32782,1,Ceuta
+            2021M08,21414,34108,1,Ceuta
+            2021M07,23141,31194,1,Ceuta
+            2021M06,26509,30335,1,Ceuta
+            2021M05,31359,32992,1,Ceuta
+            2021M04,26400,28805,1,Ceuta
+            2021M03,22462,24179,1,Ceuta
+            2021M02,17711,19304,1,Ceuta
+            2021M01,16068,18313,1,Ceuta
+            2020M12,15880,24418,1,Ceuta
+            2020M11,14431,25885,1,Ceuta
+            2020M10,15275,27332,1,Ceuta
+            2020M09,14404,22271,1,Ceuta
+            2020M08,13929,27466,2,Ceuta
+            2020M07,11102,21398,1,Ceuta
+            2020M06,16419,23255,1,Ceuta
+            2020M05,14758,25289,1,Ceuta
+            2020M04,5124,13935,2,Ceuta
+            2020M03,9826,22107,2,Ceuta
+            2020M02,14564,28454,2,Ceuta
+            2020M01,16343,36397,2,Ceuta
+            2019M12,16321,36226,2,Ceuta
+            2019M11,12414,26601,2,Ceuta
+            2019M10,10512,25072,2,Ceuta
+            2019M09,13416,39622,3,Ceuta
+            2019M08,10712,42335,4,Ceuta
+            2019M07,11893,35839,3,Ceuta
+            2022M07,164526,950617,5,Comunitat valenciana
+            2022M06,145510,701586,4,Comunitat valenciana
+            2022M05,115040,530897,4,Comunitat valenciana
+            2022M04,146870,718081,4,Comunitat valenciana
+            2022M03,118103,526636,4,Comunitat valenciana
+            2022M02,78316,356944,4,Comunitat valenciana
+            2022M01,103892,591103,5,Comunitat valenciana
+            2021M12,127565,667917,5,Comunitat valenciana
+            2021M11,108227,491304,4,Comunitat valenciana
+            2021M10,127267,623721,4,Comunitat valenciana
+            2021M09,112177,624549,5,Comunitat valenciana
+            2021M08,145663,962381,6,Comunitat valenciana
+            2021M07,92574,519626,5,Comunitat valenciana
+            2021M06,65523,322033,4,Comunitat valenciana
+            2021M05,48340,227225,4,Comunitat valenciana
+            2021M04,39861,212096,5,Comunitat valenciana
+            2021M03,41858,196012,4,Comunitat valenciana
+            2021M02,26155,119599,4,Comunitat valenciana
+            2021M01,32623,163473,5,Comunitat valenciana
+            2020M12,37764,260661,6,Comunitat valenciana
+            2020M11,31222,190209,6,Comunitat valenciana
+            2020M10,56111,336905,6,Comunitat valenciana
+            2020M09,48257,285743,5,Comunitat valenciana
+            2020M08,71695,601540,8,Comunitat valenciana
+            2020M07,57867,402069,6,Comunitat valenciana
+            2020M06,20847,114689,5,Comunitat valenciana
+            2020M05,17017,92080,5,Comunitat valenciana
+            2020M04,11848,63662,5,Comunitat valenciana
+            2020M03,63118,368442,5,Comunitat valenciana
+            2020M02,130180,648406,5,Comunitat valenciana
+            2020M01,171846,1027759,6,Comunitat valenciana
+            2019M12,163955,902931,5,Comunitat valenciana
+            2019M11,133584,669181,5,Comunitat valenciana
+            2019M10,153166,843290,5,Comunitat valenciana
+            2019M09,183951,1180553,6,Comunitat valenciana
+            2019M08,260626,2196114,8,Comunitat valenciana
+            2019M07,158271,1074030,6,Comunitat valenciana
+            2022M07,88783,249159,2,Extremadura
+            2022M06,79708,180127,2,Extremadura
+            2022M05,68151,141480,2,Extremadura
+            2022M04,67379,156847,2,Extremadura
+            2022M03,62020,132756,2,Extremadura
+            2022M02,51278,104604,2,Extremadura
+            2022M01,55162,120086,2,Extremadura
+            2021M12,66539,156274,2,Extremadura
+            2021M11,71988,148157,2,Extremadura
+            2021M10,84691,178708,2,Extremadura
+            2021M09,77149,178469,2,Extremadura
+            2021M08,95612,264382,2,Extremadura
+            2021M07,74347,173411,2,Extremadura
+            2021M06,66449,128821,1,Extremadura
+            2021M05,60678,112190,1,Extremadura
+            2021M04,36134,73587,2,Extremadura
+            2021M03,38361,73911,1,Extremadura
+            2021M02,25904,52319,2,Extremadura
+            2021M01,28210,59605,2,Extremadura
+            2020M12,33059,84441,2,Extremadura
+            2020M11,28878,66241,2,Extremadura
+            2020M10,45359,104132,2,Extremadura
+            2020M09,44151,106841,2,Extremadura
+            2020M08,57154,196548,3,Extremadura
+            2020M07,45825,132868,2,Extremadura
+            2020M06,17193,41550,2,Extremadura
+            2020M05,14572,36196,2,Extremadura
+            2020M04,8586,26524,3,Extremadura
+            2020M03,29351,82088,2,Extremadura
+            2020M02,57683,155545,2,Extremadura
+            2020M01,57208,160327,2,Extremadura
+            2019M12,84724,242417,2,Extremadura
+            2019M11,50489,132496,2,Extremadura
+            2019M10,55569,156660,2,Extremadura
+            2019M09,79077,253968,3,Extremadura
+            2019M08,84367,357567,4,Extremadura
+            2019M07,68347,243833,3,Extremadura
+            2022M07,218484,682982,3,Galicia
+            2022M06,188200,500726,2,Galicia
+            2022M05,170608,444955,2,Galicia
+            2022M04,183507,519529,2,Galicia
+            2022M03,142275,374025,2,Galicia
+            2022M02,107417,265908,2,Galicia
+            2022M01,114562,328473,2,Galicia
+            2021M12,131689,384873,2,Galicia
+            2021M11,129181,321409,2,Galicia
+            2021M10,167095,430191,2,Galicia
+            2021M09,153624,425740,2,Galicia
+            2021M08,188187,557284,3,Galicia
+            2021M07,128365,345085,2,Galicia
+            2021M06,107756,250050,2,Galicia
+            2021M05,106424,217579,2,Galicia
+            2021M04,53301,136095,2,Galicia
+            2021M03,51956,128903,2,Galicia
+            2021M02,31400,79152,2,Galicia
+            2021M01,40410,111926,2,Galicia
+            2020M12,42726,167440,3,Galicia
+            2020M11,35077,125491,3,Galicia
+            2020M10,77635,231101,3,Galicia
+            2020M09,71898,209919,2,Galicia
+            2020M08,91615,344148,3,Galicia
+            2020M07,71892,245241,3,Galicia
+            2020M06,24595,76562,3,Galicia
+            2020M05,18821,61127,3,Galicia
+            2020M04,9973,42436,4,Galicia
+            2020M03,49891,198506,4,Galicia
+            2020M02,99430,343348,3,Galicia
+            2020M01,109953,420191,3,Galicia
+            2019M12,134892,493361,3,Galicia
+            2019M11,101575,361378,3,Galicia
+            2019M10,116535,484817,4,Galicia
+            2019M09,141561,623436,4,Galicia
+            2019M08,169579,799296,4,Galicia
+            2019M07,127608,532724,4,Galicia
+            2022M07,412333,2354440,5,"Madrid, comunidad de"
+            2022M06,323553,1402756,4,"Madrid, comunidad de"
+            2022M05,295966,1168814,3,"Madrid, comunidad de"
+            2022M04,319625,1504293,4,"Madrid, comunidad de"
+            2022M03,240655,964531,4,"Madrid, comunidad de"
+            2022M02,170294,705147,4,"Madrid, comunidad de"
+            2022M01,187578,1126464,6,"Madrid, comunidad de"
+            2021M12,248686,1276795,5,"Madrid, comunidad de"
+            2021M11,247078,984808,4,"Madrid, comunidad de"
+            2021M10,246500,1075287,4,"Madrid, comunidad de"
+            2021M09,229603,1274843,5,"Madrid, comunidad de"
+            2021M08,347559,2528741,7,"Madrid, comunidad de"
+            2021M07,205881,1155431,5,"Madrid, comunidad de"
+            2021M06,115829,541466,4,"Madrid, comunidad de"
+            2021M05,72651,341196,4,"Madrid, comunidad de"
+            2021M04,58538,354241,6,"Madrid, comunidad de"
+            2021M03,54925,274846,5,"Madrid, comunidad de"
+            2021M02,37638,188901,5,"Madrid, comunidad de"
+            2021M01,49081,325457,6,"Madrid, comunidad de"
+            2020M12,55232,370505,6,"Madrid, comunidad de"
+            2020M11,37849,232743,6,"Madrid, comunidad de"
+            2020M10,57830,334078,5,"Madrid, comunidad de"
+            2020M09,77399,441808,5,"Madrid, comunidad de"
+            2020M08,165484,1535216,9,"Madrid, comunidad de"
+            2020M07,99968,676767,6,"Madrid, comunidad de"
+            2020M06,15730,100216,6,"Madrid, comunidad de"
+            2020M05,8260,58642,7,"Madrid, comunidad de"
+            2020M04,7169,57138,8,"Madrid, comunidad de"
+            2020M03,139879,693695,5,"Madrid, comunidad de"
+            2020M02,291197,1230136,4,"Madrid, comunidad de"
+            2020M01,359774,1890819,5,"Madrid, comunidad de"
+            2019M12,414719,1952679,4,"Madrid, comunidad de"
+            2019M11,342040,1423209,4,"Madrid, comunidad de"
+            2019M10,339462,1539963,4,"Madrid, comunidad de"
+            2019M09,448329,2525237,5,"Madrid, comunidad de"
+            2019M08,613239,5107544,8,"Madrid, comunidad de"
+            2019M07,427764,2569293,6,"Madrid, comunidad de"
+            2022M07,18288,39583,2,Melilla
+            2022M06,17463,26494,1,Melilla
+            2022M05,14443,22463,1,Melilla
+            2022M04,10480,22028,2,Melilla
+            2022M03,11927,19588,1,Melilla
+            2022M02,12906,17380,1,Melilla
+            2022M01,21014,35025,1,Melilla
+            2021M12,18548,29783,1,Melilla
+            2021M11,13173,20476,1,Melilla
+            2021M10,18296,28341,1,Melilla
+            2021M09,17398,30117,1,Melilla
+            2021M08,16133,29450,1,Melilla
+            2021M07,15566,24629,1,Melilla
+            2021M06,18667,22057,1,Melilla
+            2021M05,20111,21601,1,Melilla
+            2021M04,18084,20860,1,Melilla
+            2021M03,13315,15637,1,Melilla
+            2021M02,9132,9958,1,Melilla
+            2021M01,8980,10741,1,Melilla
+            2020M12,9360,15772,1,Melilla
+            2020M11,7539,14439,1,Melilla
+            2020M10,8130,16235,2,Melilla
+            2020M09,10218,19277,1,Melilla
+            2020M08,14326,32493,2,Melilla
+            2020M07,12060,27561,2,Melilla
+            2020M06,8044,12523,1,Melilla
+            2020M05,6167,9274,1,Melilla
+            2020M04,3215,7200,2,Melilla
+            2020M03,6160,13145,2,Melilla
+            2020M02,7591,16877,2,Melilla
+            2020M01,9980,25287,2,Melilla
+            2019M12,8821,22842,2,Melilla
+            2019M11,6385,16996,2,Melilla
+            2019M10,6052,17139,2,Melilla
+            2019M09,7403,23212,3,Melilla
+            2019M08,8038,37926,4,Melilla
+            2019M07,6701,24109,3,Melilla
+            2022M07,41495,228421,5,"Murcia, region de"
+            2022M06,40145,185575,4,"Murcia, region de"
+            2022M05,26926,118245,4,"Murcia, region de"
+            2022M04,35813,171391,4,"Murcia, region de"
+            2022M03,29442,129304,4,"Murcia, region de"
+            2022M02,19342,86441,4,"Murcia, region de"
+            2022M01,27452,133862,4,"Murcia, region de"
+            2021M12,37839,183440,4,"Murcia, region de"
+            2021M11,34251,150513,4,"Murcia, region de"
+            2021M10,35900,170146,4,"Murcia, region de"
+            2021M09,33105,173958,5,"Murcia, region de"
+            2021M08,39708,240658,6,"Murcia, region de"
+            2021M07,29893,150217,5,"Murcia, region de"
+            2021M06,24175,117214,4,"Murcia, region de"
+            2021M05,20068,96342,4,"Murcia, region de"
+            2021M04,18319,88826,4,"Murcia, region de"
+            2021M03,20021,90512,4,"Murcia, region de"
+            2021M02,12074,50798,4,"Murcia, region de"
+            2021M01,17168,79967,4,"Murcia, region de"
+            2020M12,23742,159089,6,"Murcia, region de"
+            2020M11,18318,112177,6,"Murcia, region de"
+            2020M10,19929,122093,6,"Murcia, region de"
+            2020M09,16356,95507,5,"Murcia, region de"
+            2020M08,21850,170051,7,"Murcia, region de"
+            2020M07,22204,149423,6,"Murcia, region de"
+            2020M06,13139,73432,5,"Murcia, region de"
+            2020M05,12984,70368,5,"Murcia, region de"
+            2020M04,9036,48890,5,"Murcia, region de"
+            2020M03,23744,133287,5,"Murcia, region de"
+            2020M02,37193,192732,5,"Murcia, region de"
+            2020M01,42432,241059,5,"Murcia, region de"
+            2019M12,48163,267222,5,"Murcia, region de"
+            2019M11,38054,194330,5,"Murcia, region de"
+            2019M10,37333,209474,5,"Murcia, region de"
+            2019M09,48052,299452,6,"Murcia, region de"
+            2019M08,63956,495342,7,"Murcia, region de"
+            2019M07,43727,280905,6,"Murcia, region de"
+            2022M07,60242,257486,4,"Navarra, comunidad foral de"
+            2022M06,45199,153032,3,"Navarra, comunidad foral de"
+            2022M05,37819,109250,2,"Navarra, comunidad foral de"
+            2022M04,43539,160723,3,"Navarra, comunidad foral de"
+            2022M03,33565,102150,3,"Navarra, comunidad foral de"
+            2022M02,24114,72017,3,"Navarra, comunidad foral de"
+            2022M01,29633,104063,3,"Navarra, comunidad foral de"
+            2021M12,36263,130097,3,"Navarra, comunidad foral de"
+            2021M11,29034,87665,3,"Navarra, comunidad foral de"
+            2021M10,39326,115707,2,"Navarra, comunidad foral de"
+            2021M09,39143,126200,3,"Navarra, comunidad foral de"
+            2021M08,49203,205761,4,"Navarra, comunidad foral de"
+            2021M07,38449,145397,3,"Navarra, comunidad foral de"
+            2021M06,27376,77270,2,"Navarra, comunidad foral de"
+            2021M05,21937,56702,2,"Navarra, comunidad foral de"
+            2021M04,17790,48638,2,"Navarra, comunidad foral de"
+            2021M03,18593,48659,2,"Navarra, comunidad foral de"
+            2021M02,15426,42098,2,"Navarra, comunidad foral de"
+            2021M01,14672,45444,3,"Navarra, comunidad foral de"
+            2020M12,13769,46214,3,"Navarra, comunidad foral de"
+            2020M11,13562,38167,2,"Navarra, comunidad foral de"
+            2020M10,18951,57811,3,"Navarra, comunidad foral de"
+            2020M09,24837,72886,2,"Navarra, comunidad foral de"
+            2020M08,34677,162685,4,"Navarra, comunidad foral de"
+            2020M07,34544,128451,3,"Navarra, comunidad foral de"
+            2020M06,11067,30738,2,"Navarra, comunidad foral de"
+            2020M05,6860,20726,3,"Navarra, comunidad foral de"
+            2020M04,3968,13033,3,"Navarra, comunidad foral de"
+            2020M03,14477,62074,4,"Navarra, comunidad foral de"
+            2020M02,26506,110210,4,"Navarra, comunidad foral de"
+            2020M01,29803,139696,4,"Navarra, comunidad foral de"
+            2019M12,41154,185244,4,"Navarra, comunidad foral de"
+            2019M11,23890,96296,4,"Navarra, comunidad foral de"
+            2019M10,27968,118285,4,"Navarra, comunidad foral de"
+            2019M09,41333,192305,4,"Navarra, comunidad foral de"
+            2019M08,48187,322409,6,"Navarra, comunidad foral de"
+            2019M07,43305,252605,5,"Navarra, comunidad foral de"
+            2022M07,214515,803308,3,Pais vasco
+            2022M06,180285,540222,3,Pais vasco
+            2022M05,165859,445052,2,Pais vasco
+            2022M04,191944,687299,3,Pais vasco
+            2022M03,139389,362868,2,Pais vasco
+            2022M02,111830,283924,2,Pais vasco
+            2022M01,126620,360363,2,Pais vasco
+            2021M12,129679,390177,3,Pais vasco
+            2021M11,98638,267489,2,Pais vasco
+            2021M10,135592,370886,2,Pais vasco
+            2021M09,132052,407990,3,Pais vasco
+            2021M08,156105,659776,4,Pais vasco
+            2021M07,118149,340775,2,Pais vasco
+            2021M06,86543,206308,2,Pais vasco
+            2021M05,70335,154980,2,Pais vasco
+            2021M04,56841,130612,2,Pais vasco
+            2021M03,60650,129836,2,Pais vasco
+            2021M02,46458,111583,2,Pais vasco
+            2021M01,47386,114496,2,Pais vasco
+            2020M12,50537,136895,2,Pais vasco
+            2020M11,48362,121637,2,Pais vasco
+            2020M10,71944,194563,2,Pais vasco
+            2020M09,82770,229876,2,Pais vasco
+            2020M08,107419,511881,4,Pais vasco
+            2020M07,96674,294297,3,Pais vasco
+            2020M06,35192,83554,2,Pais vasco
+            2020M05,26179,63917,2,Pais vasco
+            2020M04,14284,43681,3,Pais vasco
+            2020M03,52052,183390,3,Pais vasco
+            2020M02,94619,304040,3,Pais vasco
+            2020M01,108233,399864,3,Pais vasco
+            2019M12,130076,468985,3,Pais vasco
+            2019M11,96138,343430,3,Pais vasco
+            2019M10,108274,405189,3,Pais vasco
+            2019M09,142203,621098,4,Pais vasco
+            2019M08,155521,1163311,7,Pais vasco
+            2019M07,115172,622356,5,Pais vasco
+            2022M07,12869,70253,5,"Rioja, la"
+            2022M06,11782,48460,4,"Rioja, la"
+            2022M05,7352,29287,4,"Rioja, la"
+            2022M04,9990,43335,4,"Rioja, la"
+            2022M03,7966,31729,4,"Rioja, la"
+            2022M02,4359,16543,3,"Rioja, la"
+            2022M01,5004,25795,5,"Rioja, la"
+            2021M12,8044,37183,4,"Rioja, la"
+            2021M11,5780,23344,4,"Rioja, la"
+            2021M10,7266,31432,4,"Rioja, la"
+            2021M09,8777,44555,5,"Rioja, la"
+            2021M08,10378,59572,5,"Rioja, la"
+            2021M07,6498,31507,4,"Rioja, la"
+            2021M06,4271,16690,3,"Rioja, la"
+            2021M05,2707,9679,3,"Rioja, la"
+            2021M04,2393,10140,4,"Rioja, la"
+            2021M03,2273,8602,3,"Rioja, la"
+            2021M02,1714,5711,3,"Rioja, la"
+            2021M01,2160,9040,4,"Rioja, la"
+            2020M12,2084,11883,5,"Rioja, la"
+            2020M11,1439,8435,5,"Rioja, la"
+            2020M10,2649,13172,5,"Rioja, la"
+            2020M09,3811,17220,4,"Rioja, la"
+            2020M08,5260,34904,6,"Rioja, la"
+            2020M07,4355,21535,4,"Rioja, la"
+            2020M06,1243,4897,3,"Rioja, la"
+            2020M05,949,4503,4,"Rioja, la"
+            2020M04,717,4003,5,"Rioja, la"
+            2020M03,3283,18471,5,"Rioja, la"
+            2020M02,6892,34136,5,"Rioja, la"
+            2020M01,7311,44384,6,"Rioja, la"
+            2019M12,10163,52236,5,"Rioja, la"
+            2019M11,6977,35884,5,"Rioja, la"
+            2019M10,7820,42741,5,"Rioja, la"
+            2019M09,12997,76049,5,"Rioja, la"
+            2019M08,15094,123246,8,"Rioja, la"
+            2019M07,11148,70072,6,"Rioja, la"
+            2022M07,2444460,11692976,4,Total nacional
+            2022M06,2057914,7909347,3,Total nacional
+            2022M05,1770784,6296486,3,Total nacional
+            2022M04,1971044,8028208,4,Total nacional
+            2022M03,1580266,5704901,3,Total nacional
+            2022M02,1195573,4163753,3,Total nacional
+            2022M01,1415253,6335847,4,Total nacional
+            2021M12,1784193,7511871,4,Total nacional
+            2021M11,1547843,5608176,3,Total nacional
+            2021M10,1780003,6755149,3,Total nacional
+            2021M09,1713555,7505163,4,Total nacional
+            2021M08,2153162,11779878,5,Total nacional
+            2021M07,1438001,6218466,4,Total nacional
+            2021M06,1060179,3734542,3,Total nacional
+            2021M05,863715,2751290,3,Total nacional
+            2021M04,630021,2357499,3,Total nacional
+            2021M03,606469,2086374,3,Total nacional
+            2021M02,410664,1393628,3,Total nacional
+            2021M01,490048,1988175,4,Total nacional
+            2020M12,545320,2796814,5,Total nacional
+            2020M11,439326,2031432,4,Total nacional
+            2020M10,792761,3409962,4,Total nacional
+            2020M09,855857,3565243,4,Total nacional
+            2020M08,1209192,7880189,6,Total nacional
+            2020M07,917143,4594690,5,Total nacional
+            2020M06,314791,1223584,3,Total nacional
+            2020M05,230541,949785,4,Total nacional
+            2020M04,142590,686166,4,Total nacional
+            2020M03,889357,4217401,4,Total nacional
+            2020M02,1684123,7174586,4,Total nacional
+            2020M01,1967427,10114485,5,Total nacional
+            2019M12,2337724,10762849,4,Total nacional
+            2019M11,1743171,7495531,4,Total nacional
+            2019M10,1797819,8472593,4,Total nacional
+            2019M09,2432315,13005660,5,Total nacional
+            2019M08,3076317,22760051,7,Total nacional
+            2019M07,2195973,12421257,5,Total nacional
