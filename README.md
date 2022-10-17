@@ -15,7 +15,7 @@
 
 
    + Los objetivos de este proyecto son medir el número de visitantes no residentes en España que llegan a nuestro país cada mes.
-   + Conocer las características principales de los viajes que realizan dichos visitantes: destino prrincipal, país de residencia, país de origen.
+   + Conocer las características principales de los viajes que realizan dichos visitantes: destino principal, país de residencia, país de origen.
    + Medir el volumen de turismo nacional que hay en nuestro país.
   
 
@@ -30,9 +30,9 @@ el error depende de la concentración de antenas móviles.
 
 Los eventos de red se clasifican en los siguientes dos tipos: 
 
-	+ Eventos activos: cuando se realiza o recibe una llamada, un mensaje de texto, un email, se utiliza o actualiza una app, se navega en páginas web, o se enciendo o apaga el dispositivo.
++ Eventos activos: cuando se realiza o recibe una llamada, un mensaje de texto, un email, se utiliza o actualiza una app, se navega en páginas web, o se enciendo o apaga el dispositivo.
 
-	+ Eventos pasivos: se generan cuando el dispositivo está encendido, se mueve pero no se está ejecutando ninguna acción. 
++ Eventos pasivos: se generan cuando el dispositivo está encendido, se mueve pero no se está ejecutando ninguna acción. 
   
 
 ### Extración de datos
