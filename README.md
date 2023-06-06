@@ -7,6 +7,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 
   Proyecto final del bootcamp de Data Analytics de Ironhack
+![image](https://github.com/Vert-ix/Final_Project---Medicion-del-turismo-a-partir-de-los-telefonos-moviles/blob/main/images/mapaTurismo.jpg)
 
 
 
